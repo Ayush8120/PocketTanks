@@ -1,0 +1,1527 @@
+{
+   "config": {
+      "n_episodes": 10000,
+      "save_period": 50,
+      "batch_size": 32,
+      "state_size": 10,
+      "action_size": 5
+   },
+   "output": {
+      "steps": [],
+      "games": [
+         {
+            "winner": "Player 2",
+            "play_time": 1.2893,
+            "train_time": 0.0555,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 78,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 0.9493,
+            "train_time": 0.0493,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.1507,
+            "train_time": 0.0599,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 50,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.8554,
+            "train_time": 0.0498,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 96,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 0.7032,
+            "train_time": 0.0494,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.4621,
+            "train_time": 0.0582,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.5038,
+            "train_time": 0.0507,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 0.4681,
+            "train_time": 0.0498,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.7108,
+            "train_time": 0.0693,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.2822,
+            "train_time": 0.081,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.9227,
+            "train_time": 0.0576,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.9988,
+            "train_time": 0.0558,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.2341,
+            "train_time": 0.0584,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.1746,
+            "train_time": 0.0502,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.9592,
+            "train_time": 0.066,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 52,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.3218,
+            "train_time": 0.0564,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 0.9869,
+            "train_time": 0.049,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 40,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.1685,
+            "train_time": 0.0484,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.0838,
+            "train_time": 0.0486,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.0438,
+            "train_time": 0.0491,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.3345,
+            "train_time": 0.0542,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.8928,
+            "train_time": 0.0487,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.2032,
+            "train_time": 0.0752,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.1765,
+            "train_time": 0.0742,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.1963,
+            "train_time": 0.0759,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.162,
+            "train_time": 0.0704,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.7326,
+            "train_time": 0.0703,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.6059,
+            "train_time": 0.0699,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.4036,
+            "train_time": 0.0699,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.3866,
+            "train_time": 0.072,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.0526,
+            "train_time": 0.1096,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.0725,
+            "train_time": 0.0758,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 84,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.2404,
+            "train_time": 0.0782,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.4601,
+            "train_time": 0.0685,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.6865,
+            "train_time": 0.0766,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.3764,
+            "train_time": 0.0763,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.0534,
+            "train_time": 0.0706,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.392,
+            "train_time": 0.0732,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.6548,
+            "train_time": 0.0655,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.855,
+            "train_time": 0.0684,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.0729,
+            "train_time": 0.0699,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.6601,
+            "train_time": 0.0697,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.9675,
+            "train_time": 0.0691,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.9113,
+            "train_time": 0.0669,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.2211,
+            "train_time": 0.0691,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.6542,
+            "train_time": 0.0693,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.2922,
+            "train_time": 0.0674,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.1777,
+            "train_time": 0.0657,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.559,
+            "train_time": 0.0674,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.682,
+            "train_time": 0.0685,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.7794,
+            "train_time": 0.0661,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.2721,
+            "train_time": 0.0679,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.8618,
+            "train_time": 0.0651,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.0056,
+            "train_time": 0.0678,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 9.8199,
+            "train_time": 0.067,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.8214,
+            "train_time": 0.0678,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 90,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.0477,
+            "train_time": 0.068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.9353,
+            "train_time": 0.0669,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.8033,
+            "train_time": 0.0656,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.1714,
+            "train_time": 0.0685,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.2769,
+            "train_time": 0.0655,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.733,
+            "train_time": 0.0682,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 10.5673,
+            "train_time": 0.076,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.8028,
+            "train_time": 0.0724,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.0532,
+            "train_time": 0.068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.7268,
+            "train_time": 0.0733,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.7965,
+            "train_time": 0.0687,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.5902,
+            "train_time": 0.0719,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.6168,
+            "train_time": 0.0711,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.3334,
+            "train_time": 0.0707,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 9.5841,
+            "train_time": 0.0666,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.1464,
+            "train_time": 0.1068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.6259,
+            "train_time": 0.068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 8.0908,
+            "train_time": 0.0683,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 93,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.5646,
+            "train_time": 0.0934,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.1526,
+            "train_time": 0.0652,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.4471,
+            "train_time": 0.1079,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.5688,
+            "train_time": 0.1068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.5242,
+            "train_time": 0.0824,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.6584,
+            "train_time": 0.082,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.3641,
+            "train_time": 0.0741,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.0364,
+            "train_time": 0.0712,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 88,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.7725,
+            "train_time": 0.0688,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.6872,
+            "train_time": 0.0771,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.9656,
+            "train_time": 0.0697,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.1732,
+            "train_time": 0.0703,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.8178,
+            "train_time": 0.0717,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.2316,
+            "train_time": 0.0662,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.8596,
+            "train_time": 0.0716,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.4744,
+            "train_time": 0.0716,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.5709,
+            "train_time": 0.0698,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 96,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.6085,
+            "train_time": 0.0692,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.6611,
+            "train_time": 0.068,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.1506,
+            "train_time": 0.0686,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.1315,
+            "train_time": 0.07,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.0384,
+            "train_time": 0.0721,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.5399,
+            "train_time": 0.0711,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.931,
+            "train_time": 0.0681,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 9.041,
+            "train_time": 0.0654,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.6807,
+            "train_time": 0.0647,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.4119,
+            "train_time": 0.0686,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.9437,
+            "train_time": 0.076,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.6321,
+            "train_time": 0.0686,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.4476,
+            "train_time": 0.0679,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.5715,
+            "train_time": 0.0697,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.4005,
+            "train_time": 0.0689,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.3923,
+            "train_time": 0.069,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.7648,
+            "train_time": 0.0716,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.9804,
+            "train_time": 0.0698,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.0088,
+            "train_time": 0.0715,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.6906,
+            "train_time": 0.07,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.6402,
+            "train_time": 0.0754,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 87,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.425,
+            "train_time": 0.0993,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.7822,
+            "train_time": 0.0705,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.7636,
+            "train_time": 0.0711,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.2064,
+            "train_time": 0.0662,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.8173,
+            "train_time": 0.0684,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 9.1544,
+            "train_time": 0.0674,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 8.9923,
+            "train_time": 0.0666,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.5644,
+            "train_time": 0.0649,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.8914,
+            "train_time": 0.0666,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 12.198,
+            "train_time": 0.0672,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.7939,
+            "train_time": 0.0667,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.7923,
+            "train_time": 0.0669,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.5847,
+            "train_time": 0.0669,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 9.6669,
+            "train_time": 0.0784,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 83,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.8599,
+            "train_time": 0.0732,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.2088,
+            "train_time": 0.0734,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.5446,
+            "train_time": 0.0684,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.891,
+            "train_time": 0.0716,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.0887,
+            "train_time": 0.0729,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.6054,
+            "train_time": 0.0721,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.9004,
+            "train_time": 0.0796,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.6423,
+            "train_time": 0.0718,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.9077,
+            "train_time": 0.0755,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 4.8038,
+            "train_time": 0.0739,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.4552,
+            "train_time": 0.0717,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.1429,
+            "train_time": 0.0837,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.8573,
+            "train_time": 0.0753,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.5656,
+            "train_time": 0.0805,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 2.5773,
+            "train_time": 0.0771,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.8424,
+            "train_time": 0.0759,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 3.5421,
+            "train_time": 0.0734,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 1.5749,
+            "train_time": 0.0775,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 0.9625,
+            "train_time": 0.0697,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 8.2187,
+            "train_time": 0.074,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 5.6105,
+            "train_time": 0.0731,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.1917,
+            "train_time": 0.0883,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 10.0222,
+            "train_time": 0.0927,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 7.2055,
+            "train_time": 0.091,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         },
+         {
+            "winner": "Player 2",
+            "play_time": 6.4424,
+            "train_time": 0.0911,
+            "epsilon": 0.01,
+            "player_1_health": 0,
+            "player_2_health": 100,
+            "p1_win_ratio": 0,
+            "p2_win_ratio": 0
+         }
+      ],
+      "winners": {
+         "Player 2 (CPU)": 151
+      }
+   }
+}
